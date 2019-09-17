@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72617013669",
+    "firebase_url": "https://buswhere-40b83.firebaseio.com",
+    "project_id": "buswhere-40b83",
+    "storage_bucket": "buswhere-40b83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72617013669:android:e3890ccbae66aefd",
+        "android_client_info": {
+          "package_name": "com.aou.buswhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72617013669-bla842pd0pn5bkeo0aea7kbv2rsp1143.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKZzpTqqZJGRa-GnhqFBPUEOzg-xSRUos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72617013669-bla842pd0pn5bkeo0aea7kbv2rsp1143.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

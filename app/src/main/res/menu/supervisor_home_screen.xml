@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.aou.buswhere.SplashScreen">
+    <item
+        android:id="@+id/stationsMenuBtn"
+        android:orderInCategory="100"
+        android:title="Stations"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/startTripMenu"
+        android:orderInCategory="101"
+        android:title="Start"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/endTripMenu"
+        android:orderInCategory="101"
+        android:title="End"
+        app:showAsAction="always" />
+
+</menu>
